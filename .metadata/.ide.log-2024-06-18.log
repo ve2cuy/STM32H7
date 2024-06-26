@@ -1,0 +1,272 @@
+2024-06-18 15:43:02,859 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:02,867 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:02,867 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:02,867 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:02,873 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:02,874 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:02,880 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:02,880 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,831 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,831 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,832 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,832 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,837 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,837 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,843 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:43:42,843 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:44:08,386 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 267989736 Bytes (734003200)
+2024-06-18 15:44:17,546 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 329840736 Bytes (734003200)
+2024-06-18 15:44:17,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-06-18 15:44:17,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 15:44:17,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-06-18 15:44:17,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 15:44:17,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 15:44:17,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 15:44:17,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-06-18 15:44:17,597 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-06-18 15:44:17,598 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:44:17,598 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:44:17,645 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp_save
+2024-06-18 15:44:17,703 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp
+2024-06-18 15:44:17,722 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp_save
+2024-06-18 15:44:17,793 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp
+2024-06-18 15:44:17,864 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c_save
+2024-06-18 15:44:17,957 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c
+2024-06-18 15:44:17,976 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h_save
+2024-06-18 15:44:18,021 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h
+2024-06-18 15:44:18,035 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c_save
+2024-06-18 15:44:18,092 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c
+2024-06-18 15:44:18,097 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp_save
+2024-06-18 15:44:18,130 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp
+2024-06-18 15:44:18,150 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-06-18 15:44:18,198 [INFO] CodeEngine:335 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h
+2024-06-18 15:44:18,231 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h_save
+2024-06-18 15:44:18,290 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h
+2024-06-18 15:44:18,309 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c_save
+2024-06-18 15:44:18,376 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c
+2024-06-18 15:44:18,538 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 82mS.
+2024-06-18 15:44:18,539 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-06-18 15:44:18,571 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-06-18 15:44:18,876 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 337mS.
+2024-06-18 15:44:18,876 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 15:44:18,877 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 15:49:21,204 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 370492856 Bytes (734003200)
+2024-06-18 15:49:21,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-06-18 15:49:21,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 15:49:21,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-06-18 15:49:21,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 15:49:21,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 15:49:21,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 15:49:21,246 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-06-18 15:49:21,246 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-06-18 15:49:21,247 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:21,247 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:21,272 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp_save
+2024-06-18 15:49:21,330 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp
+2024-06-18 15:49:21,338 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp_save
+2024-06-18 15:49:21,387 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp
+2024-06-18 15:49:21,424 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c_save
+2024-06-18 15:49:21,465 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c
+2024-06-18 15:49:21,468 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h_save
+2024-06-18 15:49:21,495 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h
+2024-06-18 15:49:21,504 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c_save
+2024-06-18 15:49:21,551 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c
+2024-06-18 15:49:21,553 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp_save
+2024-06-18 15:49:21,578 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp
+2024-06-18 15:49:21,588 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-06-18 15:49:21,649 [INFO] CodeEngine:335 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h
+2024-06-18 15:49:21,671 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h_save
+2024-06-18 15:49:21,711 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h
+2024-06-18 15:49:21,722 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c_save
+2024-06-18 15:49:21,781 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c
+2024-06-18 15:49:21,932 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 91mS.
+2024-06-18 15:49:21,933 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-06-18 15:49:21,963 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-06-18 15:49:22,276 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 343mS.
+2024-06-18 15:49:22,276 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 15:49:22,278 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 15:49:48,611 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:48,611 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:48,611 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:48,611 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:48,617 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:48,617 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:48,622 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:48,622 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:52,411 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 625902528 Bytes (734003200)
+2024-06-18 15:49:54,983 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 271380424 Bytes (734003200)
+2024-06-18 15:49:57,628 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 265680928 Bytes (734003200)
+2024-06-18 15:49:57,700 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-06-18 15:49:57,700 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 15:49:57,700 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-06-18 15:49:57,700 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 15:49:57,700 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 15:49:57,700 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 15:49:57,700 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-06-18 15:49:57,701 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-06-18 15:49:57,701 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:57,701 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:49:57,726 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp_save
+2024-06-18 15:49:57,774 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp
+2024-06-18 15:49:57,782 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp_save
+2024-06-18 15:49:57,841 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp
+2024-06-18 15:49:57,877 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c_save
+2024-06-18 15:49:57,921 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c
+2024-06-18 15:49:57,924 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h_save
+2024-06-18 15:49:57,952 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h
+2024-06-18 15:49:57,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c_save
+2024-06-18 15:49:58,003 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c
+2024-06-18 15:49:58,005 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp_save
+2024-06-18 15:49:58,029 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp
+2024-06-18 15:49:58,045 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-06-18 15:49:58,109 [INFO] CodeEngine:335 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h
+2024-06-18 15:49:58,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h_save
+2024-06-18 15:49:58,176 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h
+2024-06-18 15:49:58,195 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c_save
+2024-06-18 15:49:58,269 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c
+2024-06-18 15:49:58,413 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 80mS.
+2024-06-18 15:49:58,414 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-06-18 15:49:58,441 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-06-18 15:49:58,720 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 306mS.
+2024-06-18 15:49:58,720 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 15:49:58,721 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 15:59:03,265 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 366323792 Bytes (734003200)
+2024-06-18 15:59:03,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-06-18 15:59:03,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 15:59:03,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-06-18 15:59:03,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 15:59:03,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 15:59:03,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 15:59:03,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-06-18 15:59:03,323 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-06-18 15:59:03,324 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 15:59:03,324 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 15:59:03,349 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp_save
+2024-06-18 15:59:03,398 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp
+2024-06-18 15:59:03,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp_save
+2024-06-18 15:59:03,454 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp
+2024-06-18 15:59:03,490 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c_save
+2024-06-18 15:59:03,533 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c
+2024-06-18 15:59:03,536 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h_save
+2024-06-18 15:59:03,563 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h
+2024-06-18 15:59:03,575 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c_save
+2024-06-18 15:59:03,615 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c
+2024-06-18 15:59:03,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp_save
+2024-06-18 15:59:03,642 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp
+2024-06-18 15:59:03,660 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-06-18 15:59:03,719 [INFO] CodeEngine:335 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h
+2024-06-18 15:59:03,746 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h_save
+2024-06-18 15:59:03,788 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h
+2024-06-18 15:59:03,799 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c_save
+2024-06-18 15:59:03,859 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c
+2024-06-18 15:59:04,001 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 77mS.
+2024-06-18 15:59:04,003 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-06-18 15:59:04,031 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-06-18 15:59:04,308 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 305mS.
+2024-06-18 15:59:04,308 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 15:59:04,309 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:02:18,506 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:18,506 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:26,063 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:26,063 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:26,063 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:26,063 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:26,083 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:26,083 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:56,796 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-06-18 16:02:56,796 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-06-18 16:03:34,314 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 634142808 Bytes (734003200)
+2024-06-18 16:03:36,691 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 279301280 Bytes (734003200)
+2024-06-18 16:03:54,591 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 353387392 Bytes (734003200)
+2024-06-18 16:03:54,628 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 16:03:54,628 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 16:03:54,628 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 16:03:54,628 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 16:03:54,629 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-06-18 16:03:54,653 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp_save
+2024-06-18 16:03:54,708 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp
+2024-06-18 16:03:54,714 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp_save
+2024-06-18 16:03:54,750 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp
+2024-06-18 16:03:54,767 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c_save
+2024-06-18 16:03:54,808 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c
+2024-06-18 16:03:54,811 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h_save
+2024-06-18 16:03:54,838 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h
+2024-06-18 16:03:54,858 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c_save
+2024-06-18 16:03:54,912 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c
+2024-06-18 16:03:54,915 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp_save
+2024-06-18 16:03:54,940 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp
+2024-06-18 16:03:54,954 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-06-18 16:03:55,016 [INFO] CodeEngine:335 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h
+2024-06-18 16:03:55,042 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h_save
+2024-06-18 16:03:55,083 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h
+2024-06-18 16:03:55,097 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c_save
+2024-06-18 16:03:55,166 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c
+2024-06-18 16:03:55,300 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 72mS.
+2024-06-18 16:03:55,301 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-06-18 16:03:55,329 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-06-18 16:03:55,636 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 335mS.
+2024-06-18 16:03:55,637 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:03:55,638 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:21:35,953 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 415815480 Bytes (734003200)
+2024-06-18 16:21:38,720 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 263271072 Bytes (734003200)
+2024-06-18 16:21:40,286 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 258402368 Bytes (734003200)
+2024-06-18 16:21:40,347 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 16:21:40,347 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 16:21:40,347 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 16:21:40,347 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 16:21:40,348 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-06-18 16:21:40,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp_save
+2024-06-18 16:21:40,447 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp
+2024-06-18 16:21:40,460 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp_save
+2024-06-18 16:21:40,519 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp
+2024-06-18 16:21:40,539 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c_save
+2024-06-18 16:21:40,605 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c
+2024-06-18 16:21:40,608 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h_save
+2024-06-18 16:21:40,644 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h
+2024-06-18 16:21:40,661 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c_save
+2024-06-18 16:21:40,702 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c
+2024-06-18 16:21:40,704 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp_save
+2024-06-18 16:21:40,730 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp
+2024-06-18 16:21:40,745 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-06-18 16:21:40,800 [INFO] CodeEngine:335 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h
+2024-06-18 16:21:40,833 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h_save
+2024-06-18 16:21:40,885 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h
+2024-06-18 16:21:40,897 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c_save
+2024-06-18 16:21:40,961 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c
+2024-06-18 16:21:41,094 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 68mS.
+2024-06-18 16:21:41,095 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-06-18 16:21:41,127 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-06-18 16:21:41,410 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 315mS.
+2024-06-18 16:21:41,411 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:21:41,412 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:53:37,607 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 451453072 Bytes (734003200)
+2024-06-18 16:53:39,662 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 285886408 Bytes (734003200)
+2024-06-18 16:53:39,706 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-06-18 16:53:39,706 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-06-18 16:53:39,706 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-06-18 16:53:39,706 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-06-18 16:53:39,706 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-06-18 16:53:39,731 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp_save
+2024-06-18 16:53:39,786 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\license.tmp
+2024-06-18 16:53:39,796 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp_save
+2024-06-18 16:53:39,848 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\gpio.tmp
+2024-06-18 16:53:39,868 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c_save
+2024-06-18 16:53:39,941 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_it.c
+2024-06-18 16:53:39,943 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h_save
+2024-06-18 16:53:39,989 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_it.h
+2024-06-18 16:53:40,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c_save
+2024-06-18 16:53:40,044 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\stm32f4xx_hal_msp.c
+2024-06-18 16:53:40,046 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp_save
+2024-06-18 16:53:40,070 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\MXTmpFiles\system.tmp
+2024-06-18 16:53:40,084 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-06-18 16:53:40,148 [INFO] CodeEngine:335 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\stm32f4xx_hal_conf.h
+2024-06-18 16:53:40,171 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h_save
+2024-06-18 16:53:40,218 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Inc\main.h
+2024-06-18 16:53:40,230 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c_save
+2024-06-18 16:53:40,285 [INFO] CodeEngine:279 - Generated code: C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\Core\Src\main.c
+2024-06-18 16:53:40,428 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 81mS.
+2024-06-18 16:53:40,429 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-06-18 16:53:40,461 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-06-18 16:53:40,799 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 370mS.
+2024-06-18 16:53:40,799 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-06-18 16:53:40,800 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.

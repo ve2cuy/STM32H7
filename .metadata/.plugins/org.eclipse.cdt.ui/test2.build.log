@@ -1,0 +1,9 @@
+18:43:17 **** Incremental Build of configuration Release for project test2 ****
+make all 
+Building file: ../src/test2.c
+Invoking: Cross GCC Compiler
+make: Interrupt/Exception caught (code = 0xc00000fd, addr = 0x4217b3)
+"make all" terminated with exit code 255. Build might be incomplete.
+
+18:43:17 Build Finished. 0 errors, 0 warnings. (took 93ms)
+
