@@ -1,10 +1,30 @@
-09:55:04 **** Incremental Build of configuration Debug for project blink02 ****
+19:15:29 **** Incremental Build of configuration Debug for project blink02 ****
 make -j24 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:135:38: warning: pointer targets in passing argument 2 of 'HAL_UART_Transmit' differ in signedness [-Wpointer-sign]
+  135 |           HAL_UART_Transmit(&huart1, msg, sizeof(msg), 100);
+      |                                      ^~~
+      |                                      |
+      |                                      char *
+In file included from ../Core/Inc/stm32f4xx_hal_conf.h:411,
+                 from ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:29,
+                 from ../Core/Inc/main.h:30,
+                 from ../Core/Src/main.c:20:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:745:79: note: expected 'const uint8_t *' {aka 'const unsigned char *'} but argument is of type 'char *'
+  745 | HAL_StatusTypeDef HAL_UART_Transmit(UART_HandleTypeDef *huart, const uint8_t *pData, uint16_t Size, uint32_t Timeout);
+      |                                                                ~~~~~~~~~~~~~~~^~~~~
+arm-none-eabi-gcc -o "blink02.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\blink02\STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="blink02.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: blink02.elf
+ 
 arm-none-eabi-size  blink02.elf 
+arm-none-eabi-objdump -h -S blink02.elf  > "blink02.list"
    text	   data	    bss	    dec	    hex	filename
-  14664	    108	   2068	  16840	   41c8	blink02.elf
+  14656	    108	   2068	  16832	   41c0	blink02.elf
 Finished building: default.size.stdout
  
+Finished building: blink02.list
+ 
 
-09:55:04 Build Finished. 0 errors, 0 warnings. (took 138ms)
+19:15:30 Build Finished. 0 errors, 1 warnings. (took 1s.551ms)
 

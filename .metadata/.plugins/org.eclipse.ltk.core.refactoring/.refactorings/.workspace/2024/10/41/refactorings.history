@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;blink02&apos; to &apos;STM32F411.LCDi2C&apos;" description="Rename resource &apos;blink02&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/blink02" name="STM32F411.LCDi2C" stamp="1728771853230" updateReferences="true"/>
+</session>
