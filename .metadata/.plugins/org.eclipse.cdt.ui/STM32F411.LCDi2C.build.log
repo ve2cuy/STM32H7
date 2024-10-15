@@ -1,10 +1,16 @@
-18:32:34 **** Incremental Build of configuration Debug for project STM32F411.LCDi2C ****
+14:27:17 **** Build of configuration Debug for project STM32F411.LCDi2C ****
 make -j24 all 
+arm-none-eabi-gcc -o "STM32F411.LCDi2C.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\alin_\STM32CubeIDE\workspace_1.15.1\STM32F411.LCDi2C\STM32_LCD\STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32F411.LCDi2C.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: STM32F411.LCDi2C.elf
+ 
 arm-none-eabi-size  STM32F411.LCDi2C.elf 
+arm-none-eabi-objdump -h -S STM32F411.LCDi2C.elf  > "STM32F411.LCDi2C.list"
    text	   data	    bss	    dec	    hex	filename
   14656	    108	   2068	  16832	   41c0	STM32F411.LCDi2C.elf
 Finished building: default.size.stdout
  
+Finished building: STM32F411.LCDi2C.list
+ 
 
-18:32:35 Build Finished. 0 errors, 0 warnings. (took 192ms)
+14:27:17 Build Finished. 0 errors, 0 warnings. (took 582ms)
 
